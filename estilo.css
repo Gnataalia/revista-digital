@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+    color: aqua;
+}
+.cabecalho{
+    background: linear-gradient(to right, bisque, aqua );
+}
+
+.cabecalho img{
+    text-align: center;
+    width: 40%;
+}
+.cabecalho h1{
+    margin: left 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.conteudo01{
+    display: flex;
+    padding: 32;
+
+
+
+
+
+
+
+.conteudo01-img{
+    width: 40%;
+}
+.conteudo01-direito{
+    background-color:cadetblue;
+    padding: 32px;
+}

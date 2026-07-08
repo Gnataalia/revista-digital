@@ -3,7 +3,7 @@ body{
     color: aqua;
 }
 .cabecalho{
-    background: linear-gradient(to right, bisque, aqua );
+    background: linear-gradient(to right, rgb(21, 51, 34), rgb(237, 240, 73) );
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,23 +11,5 @@ body{
 
 .cabecalho img{
     text-align: center;
-    width: 40%;
-}
-.cabecalho h1{
-    margin: le.conteudo01{
-    display: flex;
-    padding: 32px;
-
-}
-
-
-
-
-
-.conteudo01-img{
-    width: 40%;
-}
-.conteudo01-direito{
-    background-color:cadetblue;
-    padding: 32px;
+    width: 50%;
 }

@@ -1,6 +1,6 @@
 body{
-    background-color: bisque;
-    color: aqua;
+    background-color: rgb(237, 240, 73);
+    color:  rgb(21, 51, 34)
 }
 .cabecalho{
     background: linear-gradient(to right, rgb(21, 51, 34), rgb(237, 240, 73) );
